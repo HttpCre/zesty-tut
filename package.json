@@ -1,12 +1,12 @@
 {
-  "name": "tutorial-bot",
-  "version": "1.0.0",
-  "description": "",
+  "name": "LevelBOT",
+  "version": "Open Beta 2",
+  "description": "A bot for levels.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Zendovo",
+  "author": "HttpCre",
   "license": "ISC",
   "dependencies": {
     "discord.js": "^11.3.2"
